@@ -41,6 +41,6 @@ The Task:
    Developed Asia ETF (VAPU.SW),
    Solana (SOL-USD),
    Coinbase Global Inc. (COIN).
-2. Making a correlation analysis and finding assets that move more independently of each other.
+2. Making a correlation analysis and finding assets that move most independently of each other.
 3. Choosing 4 assets that best diversify your portfolio.
 4. Extra Task: Let's assume that on 01.01.2021, you have invested 100 US dollars in each of the 4 assets you have chosen. Plot the value of the portfolio over time.
